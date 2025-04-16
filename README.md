@@ -20,7 +20,7 @@
   <main>
     <section>
       <h2>Über mich</h2>
-      <p>Hi! Ich bin Max und das ist meine erste eigene Website. Ich liebe Technik und Webdesign.</p>
+      <p>Hi! Ich bin Jakob und das ist meine erste eigene Website. Ich liebe Technik und Webdesign.</p>
     </section>
   </main>
 
